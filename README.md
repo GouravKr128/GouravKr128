@@ -1,14 +1,12 @@
 ## Hi there! I'm Gourav Kumar 👋
 
-<hr style="height:2px;border-width:0;background-color:#6e7681;">
-
 ## 🚀 About Me
 I’m currently working as a **Associate at Cognizant** with **2.5+ years** of professional experience. I hold a **B.Tech. degree from BIT Mesra** and have a strong interest in data engineering.
 I bring hands-on expertise in Python, SQL, PySpark, and big data technologies like Apache Spark, Kafka, Hadoop, and Hive. Skilled in building scalable data pipelines using Azure services such as Data Factory, Synapse, Databricks, and ADLS Gen2.
 
 I have practical experience in end-to-end real-time and batch data processing — from data ingestion to building insightful dashboards using Power BI. My strong understanding of data warehousing, data modeling, and cloud-based solutions allows me to deliver reliable, efficient, and business-driven data systems.
 
-<hr style="height:2px;border-width:0;background-color:#6e7681;">
+<br>
 
 ## 📂 Projects
   
@@ -27,7 +25,7 @@ I have practical experience in end-to-end real-time and batch data processing �
 ### [5. Incremental Data Processing Pipeline with SCD Type 1 Implementation 🔗](https://github.com/GouravKr128/Incremental_Data_Processing_Pipeline_with_SCD_Type_1_Implementation)
 <sub>Tech Stack - PySpark, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure SQL Database, Unity Catalog, Power BI, Key Vaults.</sub>
 
-<hr style="height:2px;border-width:0;background-color:#6e7681;">
+<br>
 
 ## 🛠️ Skills
 
