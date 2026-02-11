@@ -17,11 +17,11 @@ I have practical experience in end-to-end real-time and batch data processing �
 ### [3. ADF Based OnPrem to Cloud Migration Pipeline 🔗](https://github.com/GouravKr128/ADF_Based_OnPrem_to_Cloud_Migration_Pipeline)
 <sub>Tech Stack - Azure Data Factory, ADLS Gen2, Azure SQL Database, Azure Synapse Analytics, Power BI.</sub>
 
-### [4. [Netflix Batch Processing Pipeline with BI Dashboard 🔗](https://github.com/GouravKr128/Netflix_Batch_Processing_Pipeline_with_BI_Dashboard)
+### [4. Netflix Batch Processing Pipeline with BI Dashboard 🔗](https://github.com/GouravKr128/Netflix_Batch_Processing_Pipeline_with_BI_Dashboard)
 <sub>Tech Stack - Azure Data Factory, ADLS Gen2, Databricks, PySpark, Unity Catalog, Delta Lake, Power BI.</sub>
 
 ### [5. Incremental Data Processing Pipeline with SCD Type 1 Implementation 🔗](https://github.com/GouravKr128/Incremental_Data_Processing_Pipeline_with_SCD_Type_1_Implementation)
-<small>Tech Stack - PySpark, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure SQL Database, Unity Catalog, Power BI, Key Vaults.</small>
+<sub>Tech Stack - PySpark, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure SQL Database, Unity Catalog, Power BI, Key Vaults.</sub>
 
 ## 🛠️ Skills
 
