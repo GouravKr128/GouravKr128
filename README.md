@@ -28,6 +28,12 @@ Azure Data Factory, ADLS Gen2, Databricks, PySpark, Unity Catalog, Delta Lake, P
 Tech Stack<br>
 PySpark, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure SQL Database, Unity Catalog, Power BI, Key Vaults
 
-
+## Skills
+**Programming Languages & Libraries:** Python, SQL, PySpark<br>
+**Big Data Tools & Frameworks:** Apache Spark, Spark Structured Streaming, Delta Live Tables, Kafka, Hadoop, Hive<br>
+**Azure Cloud Stack:** Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure SQL Database, Logic apps,   
+                                   Azure Event Hubs, Key Vault<br>
+**Data Engineering:** Data Warehousing, Data Modelling, ETL, Delta Lake<br>
+**Visualization & Version Control:** Power BI, Git, GitHub<br>
 
 
