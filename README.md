@@ -31,10 +31,10 @@ I have practical experience in end-to-end real-time and batch data processing â€
 
 | Category | Technologies |
 |------------------------|-------------------------|
-| **Programming Languages & Libraries** | Python, SQL, PySpark |
-| **Big Data Tools & Frameworks** | Apache Spark, Spark Structured Streaming, Delta Live Tables, Kafka, Hadoop, Hive |
-| **Azure Cloud Stack** | Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure SQL Database, Logic apps, Azure Event Hubs, Key Vault |
-| **Data Engineering** | Data Warehousing, Data Modelling, ETL, Delta Lake |
-| **Visualization & Version Control** | Power BI, Git, GitHub |
+| Programming Languages & Libraries | Python, SQL, PySpark |
+| Big Data Tools & Frameworks | Apache Spark, Spark Structured Streaming, Delta Live Tables, Kafka, Hadoop, Hive |
+| Azure Cloud Stack | Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure SQL Database, Logic apps, Azure Event Hubs, Key Vault |
+| Data Engineering | Data Warehousing, Data Modelling, ETL, Delta Lake |
+| Visualization & Version Control | Power BI, Git, GitHub |
 
 
